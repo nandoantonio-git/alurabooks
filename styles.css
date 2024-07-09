@@ -28,6 +28,10 @@ body{
    font-weight:400;
 }
 
-a:hover{
+.carrossel a:hover,.topicos a:hover{
     background-color: var(--hover-botao);
+}
+
+footer a:hover {
+    color: var(--hover-botao);
 }
